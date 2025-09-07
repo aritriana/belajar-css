@@ -1,8 +1,16 @@
-* {
-    background-color: blueviolet;
+body {
+    background-color: #A8BBA3;
 }
 
 h1,h2,h3 {
     color: white;
     background-color: black;
+}
+
+#list2 {
+    color: blueviolet;
+}
+
+.mark {
+    background-color: aquamarine;
 }
