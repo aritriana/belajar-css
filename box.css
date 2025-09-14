@@ -1,6 +1,11 @@
 div {
     width: 300px;
-    border: 20px solid green;
     padding: 20px;
     margin: 20px;
+}
+
+div {
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 10%;
 }
